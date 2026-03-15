@@ -9,7 +9,10 @@
 ## 🚀 Inicio rápido
 
 ```bash
-# Instalar dependencias
+# Descomprimir, creará el directorio job-radar-test
+unzip JobRadarTest.zip 
+
+# Dentro del directorio job-radar-test, instalar dependencias
 npm install
 
 # Iniciar servidor
