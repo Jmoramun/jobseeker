@@ -2,9 +2,9 @@
 
 ## ✨ Características
 
-- **Sin login requerido** - Acceso directo al dashboard
-- **Sin límites de uso** - Todas las funciones disponibles
-- **Configuración sencilla** - Solo necesitas tu API key
+- Versión para ejecución local. No se envían datos fuera de tu máquina.
+- Necesaria API key de Anthropic o Gemini
+
 
 ## 🚀 Inicio rápido
 
@@ -21,7 +21,7 @@ Abre http://localhost:3000 en tu navegador.
 ## ⚙️ Configuración inicial
 
 1. Al abrir la app, verás el overlay de configuración
-2. Selecciona tu proveedor de IA (Anthropic o OpenAI)
+2. Selecciona tu proveedor de IA (Anthropic o Gemini)
 3. Introduce tu API key
 4. ¡Listo para usar!
 
