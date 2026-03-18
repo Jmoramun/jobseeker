@@ -2,7 +2,7 @@
 
 ## ✨ Características
 
-- Versión para ejecución local. No se envían datos fuera de tu máquina.
+- Versión para ejecución local. Solo se envían datos entre tu máquina y el IA provider que elijas. 
 - Necesaria API key de Anthropic o Gemini
 
 
